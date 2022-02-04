@@ -4,7 +4,7 @@ This is a list with all the challenges we did since the beginning of the trainin
 
 If you want the links to go to your fork, you can run this script : [replace_word.sh](./replace_word.sh)
   
-Be careful with the script !
+Be careful with the script !  
 You can also simply use your text editor to replace the word "becodeorg" in this file.
 
 ## field  
