@@ -2,8 +2,10 @@
 
 This is a list with all the challenges we did since the beginning of the training.
 
-If you want to fork it, know that all the links are linked to the becode repository, if you want the links to go to your fork of the becode repository (= your repository) I will add a script.
-This script will replace the username "becode" in the links with your username so that the links get to your fork and not becode's repository.
+If you want the links to go to your fork, you can run this script : [replace_word.sh](./replace_word.sh)
+  
+Be careful with the script !
+You can also simply use your text editor to replace the word "becodeorg" in this file.
 
 ## field  
 
