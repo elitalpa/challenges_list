@@ -11,14 +11,14 @@ field
 Output : comment  
   
 2. Versioning with Git - **pull request**  
-*2021-09-08*morning  
+*2021-09-08 morning*  
 [ Versioning with Git #6 ](https://github.com/becodeorg/BXL-Lovelace-7.34/issues/6)  
 [The Challenge](https://github.com/becodeorg/BXL-Lovelace-7.34/tree/main/content/field/getting_started/git_intro)  
 [Output](https://github.com/becodeorg/BXL-Lovelace-7.34/tree/main/content/field/getting_started/git_intro/output)  
 <your_name>.txt  
   
 3. Exquisite Corpse - group - comment + link to repo  
-*2021-09-08*afternoon  
+*2021-09-08 afternoon*  
 [ Exquisite Corpse #18 ](https://github.com/becodeorg/BXL-Lovelace-7.34/issues/18)  
 [The Challenge](https://github.com/becodeorg/BXL-Lovelace-7.34/tree/main/content/field/getting_started/exquisite_corpse)  
 Output : comment + link to repo  
