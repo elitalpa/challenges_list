@@ -1,6 +1,8 @@
 # challenges list
 
-*** field ***
+*** 
+field
+***
 
 1. Set up a working environment - comment
 *2021-09-07*
@@ -61,7 +63,9 @@ Output : comment + link to git server
 [The Challenge](https://github.com/becodeorg/BXL-Lovelace-7.34/tree/main/content/field/cogip)
 Output : comment + link to deployed COGIP website
 
-*** hill ***
+***
+hill
+***
 
 10. Monitoring 101 - **pull request**
 *2021-10-12*
