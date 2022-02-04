@@ -101,56 +101,56 @@ Output : comment + link to repo
 [The Challenge](https://github.com/becodeorg/BXL-Lovelace-7.34/tree/6cd787b5eac1e79fea8eb83a0d3394d80a779247/content/hill/network_fundamentals/ip_addressing_and_subnetting)  
 Output : comment + results file  
   
-14. Virtualisation 101 - **pull request** 
+16. Virtualisation 101 - **pull request** 
 *2021-12-06*  
 [ Virtualization 101 #160 ](https://github.com/becodeorg/BXL-Lovelace-7.34/issues/160)  
 [The Challenge](https://github.com/becodeorg/BXL-Lovelace-7.34/tree/main/content/hill/virtualization_101)  
 [Output](https://github.com/becodeorg/BXL-Lovelace-7.34/tree/main/content/hill/virtualization_101/output)  
 report explaining what virtualization is and why investing time or not  
   
-15. Docker - comment  
+17. Docker - comment  
 *2021-12-09*  
 no issue  
 [The Challenge](https://github.com/becodeorg/BXL-Lovelace-7.34/tree/main/content/hill/docker)  
 ~~Output : comment~~  
   
-16. Vagrant - **pull request**  
+18. Vagrant - **pull request**  
 *2021-12-20*  
 no issue  
 [The Challenge](https://github.com/becodeorg/BXL-Lovelace-7.34/tree/main/content/hill/vagrant)  
 ~~Output : should be a pull request but there is no directory~~  
   
-17. Ansible  
+19. Ansible  
 *2022-01-04*  
 no issue  
 [The Challenge](https://github.com/becodeorg/BXL-Lovelace-7.34/tree/main/content/hill/ansible)  
 no output specified  
   
-18. Jenkins - Freestyle Project  
+20. Jenkins - Freestyle Project  
 *2022-01-12*  
 no issue  
 [The Challenge](https://github.com/becodeorg/BXL-Lovelace-7.34/tree/main/content/hill/Jenkins_freestyle_project)  
 no output specified  
   
-19. Jenkins - Pipeline As Code  
+21. Jenkins - Pipeline As Code  
 *2022-01-18*  
 no issue  
 [The Challenge](https://github.com/becodeorg/BXL-Lovelace-7.34/tree/main/content/hill/jenkins_pipelines_as_code)  
 no output specified  
   
-20. Docker - DockerHub  
+22. Docker - DockerHub  
 *2022-01-25*  
 no issue  
 [The Challenge](https://github.com/becodeorg/BXL-Lovelace-7.34/tree/main/content/hill/docker_hub)  
 no output specified  
   
-21. Gitlab - CI  
+23. Gitlab - CI  
 *2022-01-27*  
 no issue  
 [The Challenge](https://github.com/becodeorg/BXL-Lovelace-7.34/tree/main/content/hill/gitlab-ci)  
 no output specified  
   
-22. Static Application Security Testing with Sonarqube  
+24. Static Application Security Testing with Sonarqube  
 *2022-02-02*  
 [The Challenge](https://github.com/becodeorg/BXL-Lovelace-7.34/tree/main/content/hill/SAST%20-%20SONARQUBE)  
 no output specified  
