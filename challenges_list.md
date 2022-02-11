@@ -161,3 +161,8 @@ no output specified
 *2022-02-02*  
 [The Challenge](https://github.com/becodeorg/BXL-Lovelace-7.34/tree/main/content/hill/SAST%20-%20SONARQUBE)  
 no output specified  
+  
+25. Docker Swarm
+*2022-02-08*
+[The Challenge](https://github.com/becodeorg/BXL-Lovelace-7.34/tree/main/content/hill/docker_swarm)
+no output specified
