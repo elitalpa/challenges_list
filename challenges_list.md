@@ -171,4 +171,5 @@ no output specified
 *2022-02-15*  
 [The Challenge (an exercise)](https://www.katacoda.com/courses/kubernetes)  
 Book : "Kubernetes: Up and Running"  
+[Kubernetes Complete Course](https://www.youtube.com/watch?v=X48VuDVv0do)  
 no output specified  
