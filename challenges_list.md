@@ -170,5 +170,5 @@ no output specified
 26. Kubernetes  
 *2022-02-15*  
 [The Challenge (an exercise)](https://www.katacoda.com/courses/kubernetes)  
-Book : Kubernetes: Up and Running  
+Book : "Kubernetes: Up and Running"  
 no output specified  
