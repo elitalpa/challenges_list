@@ -166,3 +166,9 @@ no output specified
 *2022-02-08*  
 [The Challenge](https://github.com/becodeorg/BXL-Lovelace-7.34/tree/main/content/hill/docker_swarm)  
 no output specified  
+  
+26. Kubernetes 
+*2022-02-15*  
+[The Challenge (an exercise)](https://www.katacoda.com/courses/kubernetes)  
+Book : Kubernetes: Up and Running  
+no output specified  
